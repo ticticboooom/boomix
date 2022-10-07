@@ -3,6 +3,7 @@
 # how many build jobs for make to use.
 export MAKEFLAGS='-j12'
 
+# mounted LFS/ partition path
 export LFS=/mnt/lfs
 
 # name of lfs user 
